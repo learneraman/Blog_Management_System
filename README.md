@@ -1,3 +1,6 @@
+<img width="1644" height="1054" alt="Screenshot 2026-01-12 162808" src="https://github.com/user-attachments/assets/38383fbf-f94a-4811-a14a-00d34467e663" />
+<img width="1737" height="1058" alt="Screenshot 2026-01-12 162731" src="https://github.com/user-attachments/assets/6f5953a8-fc78-468e-8651-e39b4a6b4de0" />
+<img width="1867" height="1072" alt="Screenshot 2026-01-12 162706" src="https://github.com/user-attachments/assets/5188f56b-b4c4-4f81-9476-97839d00eb77" />
 # 🖥️ Blog Management System
 
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge)
