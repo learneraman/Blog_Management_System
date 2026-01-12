@@ -1,0 +1,22 @@
+{
+  "name": "blog-management-app",
+  "version": "1.0.0",
+  "description": "Blog management app storing blogs in moongoose database as JSON format and using frontend and backend",
+  "private": true,
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm start",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install"
+  },
+  "keywords": [
+    "frontend",
+    "backend",
+    "fullstack"
+  ],
+  "author": "Aman Paliwal",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
